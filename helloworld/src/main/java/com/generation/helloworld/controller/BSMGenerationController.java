@@ -12,13 +12,14 @@ public class BSMGenerationController {
 	@GetMapping
 	public List<String> bsmGeneration() {
 		return Arrays.asList(
-	            "Engajamento de empregadores e levantamento de vagas desde o início",
-	            "Recrutamento de jovens (18-30 anos) com base em características intrínsecas e requisitos profissionais para a profissão",
-	            "De 10 a 12 semanas de treinamento intensivo em habilidades técnicas, comportamentais, mentalidade + serviços de apoio social (ex: auxílio internet, notebook e bolsa)",
-	            "Conexão com mercado de trabalho (Feira de Projetos e Indicações)",
-	            "Mentoria durante e após o programa e comunidade de alumni que acompanham os alunos no local de trabalho",
-	            "Cálculo de retorno sobre o investimento (ROI) para empregadores, estudantes e sociedade",
-	            "Uma abordagem centrada em monitoramento e avaliação de dados em cada etapa"
+	            "Proatividade",
+	            "Trabalho em equipe",
+	            "Comunicação efetiva e não violenta",
+	            "Responsabilidade pessoal",
+	            "Mentalidade de crescimento",
+	            "Orientação ao futuro",
+	            "Atenção aos detalhes",
+	            "Persistência"
 	        );
 	}
 }
